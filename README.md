@@ -1,0 +1,2 @@
+# allauthstudentstudyportal
+all auth accounts
